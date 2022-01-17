@@ -1,0 +1,3 @@
+/home/lys/2019_ITE1015_2019087101/12-2-1/CMakeFiles/rebuild_cache.dir
+/home/lys/2019_ITE1015_2019087101/12-2-1/CMakeFiles/list.dir
+/home/lys/2019_ITE1015_2019087101/12-2-1/CMakeFiles/edit_cache.dir

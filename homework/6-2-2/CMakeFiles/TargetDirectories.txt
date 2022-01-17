@@ -1,0 +1,3 @@
+/home/lys/2019_ITE1015_2019087101/6-2-2/CMakeFiles/rebuild_cache.dir
+/home/lys/2019_ITE1015_2019087101/6-2-2/CMakeFiles/minimal_fighter.dir
+/home/lys/2019_ITE1015_2019087101/6-2-2/CMakeFiles/edit_cache.dir

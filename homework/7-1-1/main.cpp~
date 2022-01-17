@@ -1,0 +1,36 @@
+#include <iostream>
+#include <string.h>
+#include "sorted.h"
+
+using namespace std;
+
+int main(){
+	string menu,num;
+	int num_;
+	SortedArray intVec;
+	getline(cin,num);
+	for(int i=0; i < num.size();i++)
+	{
+		if(num[i] ==' ')
+			continue;
+		else
+		{
+			num_ = num[i];
+			intVec.AddNumber(atoi(num.c_str));       	
+	}
+	while(1){
+		getline(cin,menu);
+
+		if(menu == "ascend")
+			intVec.GetSortedAscending();
+		else if(menu == "descend")
+			intVec.GetSortedDescending();
+		else if(menu == "max")
+			intVec.GetMax();
+		else if(menu == "min")
+			intVec.GetMin();
+		else if(menu =="quit")
+			break;
+	}	
+	return 0;
+}

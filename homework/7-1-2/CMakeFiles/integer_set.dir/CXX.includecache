@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lys/2019_ITE1015_2019087101/7-1-2/intset.cpp
+iostream
+-
+algorithm
+-
+intset.h
+/home/lys/2019_ITE1015_2019087101/7-1-2/intset.h
+
+/home/lys/2019_ITE1015_2019087101/7-1-2/intset.h
+vector
+-
+
+/home/lys/2019_ITE1015_2019087101/7-1-2/main.cpp
+iostream
+-
+intset.h
+/home/lys/2019_ITE1015_2019087101/7-1-2/intset.h
+

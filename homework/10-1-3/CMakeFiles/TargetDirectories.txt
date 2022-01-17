@@ -1,0 +1,3 @@
+/home/lys/2019_ITE1015_2019087101/10-1-3/CMakeFiles/rebuild_cache.dir
+/home/lys/2019_ITE1015_2019087101/10-1-3/CMakeFiles/dynamic_cast.dir
+/home/lys/2019_ITE1015_2019087101/10-1-3/CMakeFiles/edit_cache.dir

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lys/2019_ITE1015_2019087101/7-2-2/main.cpp
+iostream
+-
+set
+-
+string
+-
+sstream
+-
+setfunc.h
+/home/lys/2019_ITE1015_2019087101/7-2-2/setfunc.h
+
+/home/lys/2019_ITE1015_2019087101/7-2-2/setfunc.cpp
+iostream
+-
+set
+-
+string
+-
+sstream
+-
+setfunc.h
+/home/lys/2019_ITE1015_2019087101/7-2-2/setfunc.h
+
+/home/lys/2019_ITE1015_2019087101/7-2-2/setfunc.h
+set
+-
+string
+-
+iostream
+-
+sstream
+-
+
